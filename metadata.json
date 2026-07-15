@@ -1,0 +1,6 @@
+{
+  "name": "MHG İnşaat",
+  "description": "İstanbul genelinde kurumsal şantiye disiplini, mühendislik planlaması ve şeffaf metraj/teklif ilkeleriyle çalışan ince yapı, alçı, sıva, asma tavan, boya ve yalıtım taahhüt firması sitemiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
